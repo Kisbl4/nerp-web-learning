@@ -1,0 +1,14 @@
+{
+	"name": "nerp-web-learning",
+	"version": "1.0.0",
+	"main": "index.js",
+	"repository": "https://github.com/Kisbl4/nerp-web-learning.git",
+	"author": "Ксения Лебедева <kibl4k@mail.ru>",
+	"license": "MIT",
+	"devDependencies": {
+		"prettier": "^3.9.10"
+	},
+	"scripts": {
+		"format": "prettier --write ."
+	}
+}
